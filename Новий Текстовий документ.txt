@@ -1,5 +1,5 @@
 5384a5d  - mrren-code
 3a3ab62 Update Новий Текстовий документ.txt - mrren-code
 d28a776  - mrren-code
-694de28 Змінили систему кухара на самописну - mrren-code
+694de28  - mrren-code
 37143c3 Виправили переклад найманця - mrren-code
